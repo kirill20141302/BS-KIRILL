@@ -1,11 +1,10 @@
- BS-KIRILL
-САЙТ О БРАВЛЕ 
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Brawl Stars</title>
-    <style> body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px; } h1 { text-align: center; color: #2e86c1; } p { line-height: 1.5; margin-bottom: 15px; } .container { max-width: 800px; margin: 0 auto; background-color: white; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); padding: 30px; border-radius: 10px; } img { display: block; margin: 20px auto; max-width: 100%; } </style>
+    <style> body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px; } h1 { text-align: center; color: #2e86c1; } p { line-height: 1.5; margin-bottom: 15px; } .container { max-width: 800px; margin: 0 auto; background-color: white; box-shadow: 0 0 10px (0, 0, 0, 0.1); padding: 30px; border-radius: 10px; } img { display: block; margin: 20px auto; max-width: 100%; } </style>
 </head>
 <body>
     <div class="container">
