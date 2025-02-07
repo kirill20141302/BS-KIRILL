@@ -9,6 +9,7 @@
 <body>
     <div class="container">
         <h1>Brawl Stars</h1>
+        <img src="brawl-stars-logo.png" alt="Логотип Brawl Stars">
         <p><strong>Brawl Stars</strong> – это динамичная мобильная игра от компании Supercell, выпущенная в 2018 году.
             В игре участники сражаются друг с другом в различных режимах и картами, используя уникальных персонажей (бравлеров) с разными способностями.</p>
         
